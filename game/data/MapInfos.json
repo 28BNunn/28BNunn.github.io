@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Text map","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":2,"expanded":true,"name":"oHouse","order":2,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":true,"name":"iHouse","order":3,"parentId":2,"scrollX":816,"scrollY":624,"quick":false},
+{"id":4,"expanded":false,"name":"Upstairs","order":4,"parentId":3,"scrollX":973.1999999999999,"scrollY":549,"quick":false},
+{"id":5,"expanded":true,"name":"Normal Town","order":5,"parentId":2,"scrollX":972,"scrollY":640.1999999999999,"quick":false},
+{"id":6,"expanded":true,"name":"Lake","order":6,"parentId":5,"scrollX":962.4,"scrollY":538.1999999999999,"quick":false},
+null,
+{"id":8,"expanded":true,"name":"boulder pass","order":7,"parentId":5,"scrollX":973.1999999999999,"scrollY":549,"quick":false},
+{"id":9,"expanded":true,"name":"dark cave","order":8,"parentId":8,"scrollX":811,"scrollY":457.5,"quick":false},
+{"id":10,"expanded":false,"name":"cave2","order":11,"parentId":8,"scrollX":811,"scrollY":457.5,"quick":false},
+{"id":11,"expanded":true,"name":"dungeon","order":9,"parentId":9,"scrollX":811,"scrollY":457.5,"quick":false},
+{"id":12,"expanded":false,"name":"dungeon","order":10,"parentId":11,"scrollX":819,"scrollY":502.5,"quick":false},
+{"id":13,"expanded":false,"name":"small forest","order":14,"parentId":2,"scrollX":962.4,"scrollY":528.6,"quick":false},
+{"id":14,"expanded":false,"name":"hole filled area","order":12,"parentId":8,"scrollX":962.4,"scrollY":528.6,"quick":false},
+{"id":15,"expanded":false,"name":"fpass","order":15,"parentId":0,"scrollX":1418,"scrollY":640,"quick":false},
+{"id":16,"expanded":false,"name":"bpassdugeon","order":13,"parentId":8,"scrollX":1206,"scrollY":1600.1999999999998,"quick":false}
+]
