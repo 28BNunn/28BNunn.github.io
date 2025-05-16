@@ -1,0 +1,24 @@
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body {
+    color: #EEC643;
+    background-image: url("https://t4.ftcdn.net/jpg/03/86/82/73/360_F_386827376_uWOOhKGk6A4UVL5imUBt20Bh8cmODqzx.jpg");
+    background-repeat: repeat;
+    background-position: none;
+    background-attachment: scroll;
+    width: 80%;
+    margin: auto;
+}
+
+article {
+    border: 5px solid #DA4167;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+footer {
+    border: 5px solid #DA4167;
+    margin-bottom: 5px;
+    padding: 10px;
+}
